@@ -6,7 +6,7 @@ This lab demonstrates what happens when a one-time pad (OTP) or key material is 
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Open in Colab**
 
