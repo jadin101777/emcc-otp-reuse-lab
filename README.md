@@ -1,8 +1,8 @@
 # emcc-otp-reuse-lab
-# 🔐 OTP-Reuse Lab — EMCC Cybersecurity & Coding Club
+#  OTP-Reuse Lab — EMCC Cybersecurity & Coding Club
 This lab demonstrates what happens when a one-time pad (OTP) or key material is reused between different messages.
 
-> ⚠️ Educational use only — for ethical hacking learning.
+>  Educational use only — to teach ethical hacking.
 
 ---
 
@@ -20,7 +20,7 @@ This lab demonstrates what happens when a one-time pad (OTP) or key material is 
 
 ---
 
-## 🧠 What You’ll Learn
+##  What You’ll Learn
 - How OTP reuse reveals relationships between messages.
 - How to perform crib-dragging safely in a sandbox.
 - Why key and nonce reuse breaks modern encryption too.
@@ -28,7 +28,7 @@ This lab demonstrates what happens when a one-time pad (OTP) or key material is 
 
 ---
 
-## 🧾 Resources
+##  Resources
 - PDF Handout: [`otp_reuse_lab_handout_EMCC_v5.pdf`](otp_reuse_lab_handout_EMCC_v5.pdf)
 - Logo: [`logo.webp`](logo.webp)
 - Notebook: [`otp_reuse_lab.ipynb`](otp_reuse_lab.ipynb)
