@@ -9,7 +9,8 @@ This lab demonstrates what happens when a one-time pad (OTP) or key material is 
 ## 🚀 Quick Start
 
 1. **Open in Colab**
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jadin101777/emcc-otp-reuse-lab/blob/main/otp_reuse_lab.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jadin101777/emcc-otp-reuse-lab/blob/main/otp_reuse_lab.ipynb)
 
 2. **Read or print the handout**
    👉 [Download Printable PDF](otp_reuse_lab_handout_EMCC_v5.pdf)
